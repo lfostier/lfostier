@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Louis Fostier, currently phd student in applied mathematics 
-- 👀 I’m interested in numerical simulation of pde, and inverse problem
+- 👋 Hi, I’m Louis Fostier, currently phd student in applied mathematics for biology.
+- 👀 I’m interested in modeling, numerical simulation of pde, and inverse problem
 - 📫 How to reach me : louis.fostier@inrae.fr, louis.fostier@inria.fr
 
 <!---
